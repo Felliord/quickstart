@@ -5,7 +5,7 @@ theme: PaperMod
 
 params: 
   homeInfoParams:
-    Title: "Hello Adi"
+    Title: Hello Adi
     Content: Wellcome to my first WEB page
   socialIcons:
    - name: facebook
