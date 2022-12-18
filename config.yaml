@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://fabulous-paprenjak-062bf5.netlify.app"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
